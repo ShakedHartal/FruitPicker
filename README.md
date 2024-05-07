@@ -1,5 +1,5 @@
-# Pixel Game World
-This game simulator is not about winning or losing. Here you can just enjoy playing with your avatar and gather energy by colliding on delicious fruits from the trees.
+# Fruit Picker
+This game simulator is not about winning or losing. Here you can just enjoy playing with your avatar and gather energy by picking the delicious fruits from the trees.
 
 ![pepse](https://github.com/ShakedHartal/PixelGameWorld/assets/168190882/7ab9027d-7d53-42ba-8e59-6e8799cb98ca)  
 
